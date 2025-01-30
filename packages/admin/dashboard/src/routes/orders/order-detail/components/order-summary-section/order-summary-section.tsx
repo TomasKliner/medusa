@@ -404,7 +404,7 @@ const Item = ({
               weight="plus"
               className="text-ui-fg-base"
             >
-              {item.title}
+              {item.product_title}
             </Text>
 
             {item.variant_sku && (
